@@ -34,13 +34,14 @@
       <li>Correlation Analysis</li>
     </ul>
   </li>
+</ul>
+<img src="https://github.com/user-attachments/assets/5b4bf847-7617-4eff-97ad-8e34ad047756" height="250">
+
+<ul>
   <li>Train-Test Split</li>
 </ul>
+<img src="https://github.com/user-attachments/assets/482fca09-9d47-44c1-8fb3-4c54a7780152" height="250">
 
-<div style="white-space: nowrap;">
-  <img src="https://github.com/user-attachments/assets/5b4bf847-7617-4eff-97ad-8e34ad047756" height="250">
-  <img src="https://github.com/user-attachments/assets/482fca09-9d47-44c1-8fb3-4c54a7780152" height="250">
-</div>
 
 <h2>Model Selection and Hyperparameter Tuning</h2>
 <ul>
@@ -106,7 +107,7 @@
   </li>
   <li>Model Performance After Hyperparameter Tuning </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/e297440d-d955-4ea9-85e7-453872f3ff01" height="250">
+<img src="https://github.com/user-attachments/assets/e297440d-d955-4ea9-85e7-453872f3ff01" height="180">
 <img src="https://github.com/user-attachments/assets/e446a904-4196-4023-9903-9b1f11ab7d1a" height="250">
 
 <h2>Final Evaluation and Results</h2>
@@ -117,7 +118,7 @@
     </ul>
   </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/a29b8048-3c6c-4a3f-92eb-068694678343" height="150">
+<img src="https://github.com/user-attachments/assets/a29b8048-3c6c-4a3f-92eb-068694678343" height="100">
 
 <ul>
   <li>Visualizing Predictions</li>
