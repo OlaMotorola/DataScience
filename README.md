@@ -83,7 +83,7 @@
   </li>
 </ul>
 
-<img src="https://github.com/user-attachments/assets/d2ac1e3a-abd8-4c7e-aabd-abe51cfa3e1e" height="250">
+<img src="https://github.com/user-attachments/assets/d2ac1e3a-abd8-4c7e-aabd-abe51cfa3e1e" height="200">
 
 <ul>
   <li>Hyperparameter Tuning
@@ -117,15 +117,15 @@
     </ul>
   </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/a29b8048-3c6c-4a3f-92eb-068694678343" height="250">
+<img src="https://github.com/user-attachments/assets/a29b8048-3c6c-4a3f-92eb-068694678343" height="150">
 
 <ul>
   <li>Visualizing Predictions</li>
 </ul>
 
 <div style="white-space: nowrap;">
-  <img src="https://github.com/user-attachments/assets/97adda1e-b78d-4d06-bf13-cbf32fe38884)" height="250">
-  <img src="https://github.com/user-attachments/assets/204fcafd-fac0-4e5b-abdf-4fe5d2d7337b)" height="250">
+  <img src="https://github.com/user-attachments/assets/97adda1e-b78d-4d06-bf13-cbf32fe38884" height="250">
+  <img src="https://github.com/user-attachments/assets/204fcafd-fac0-4e5b-abdf-4fe5d2d7337b" height="250">
 </div>
 
 
